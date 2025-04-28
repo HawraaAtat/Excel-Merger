@@ -12,13 +12,10 @@
             align-items: center;
             height: 100vh;
             text-align: center;
-            background-color: #f8f9fa; /* Light background */
+            background-color:rgb(255, 255, 255); /* Light background */
         }
         .container {
             padding: 2rem;
-            border-radius: 10px;
-            background: white;
-            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
         }
     </style>
 </head>
